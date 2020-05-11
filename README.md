@@ -1,7 +1,10 @@
 # inf5aprogetto-LucioBaglione
 inf5aprogetto-LucioBaglione created by GitHub Classroom
 FireChat
-                                                        +++PROGETTO FIRECHAT+++
+                                                       
+                                                       
+                                                       
+                                                       +++PROGETTO FIRECHAT+++
 -Descrizione del progetto
 
 Il lavoro si basa su un'applicazione Android sviluppata in Java dove l'utente può iscriversi e chattare con le altre persone iscritte, anche se non si possiede il numero. Dopo il login vengono visualizzati tutti gli altri studenti iscritti (divisi tra maschi e femmine, online e offline) e le relative immagini profilo, l'obiettivo è quello di aiutare la socializzazione dei ragazzi più giovani e favorire l'amicizia tra le varie classi.
