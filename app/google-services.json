@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344798959884",
+    "firebase_url": "https://firechat-4b402.firebaseio.com",
+    "project_id": "firechat-4b402",
+    "storage_bucket": "firechat-4b402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344798959884:android:7cd0a94011eb5d27045129",
+        "android_client_info": {
+          "package_name": "com.firechat.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344798959884-jop35trs8gs9ejif4aj939p2641rv92a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3J0OFcPI5jpU6y7eqMTfG3FhYktYH_ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344798959884-jop35trs8gs9ejif4aj939p2641rv92a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

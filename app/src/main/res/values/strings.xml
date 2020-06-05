@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FireChat</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Conferma password</string>
+    <string name="prompt_msg">Scrivi un messaggio</string>
+    <string name="action_sign_in">Loggati o registrati</string>
+    <string name="action_register">Registrazione</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="action_sign_up">Regitrati</string>
+    <string name="action_send">Invia</string>
+    <string name="error_invalid_email">Indirizzo mail non valido</string>
+    <string name="error_invalid_password">La password è troppo breve o incorretta</string>
+    <string name="error_incorrect_password">Password non corretta</string>
+    <string name="error_field_required">Compila questo campo</string>
+    <string name="permission_rationale">"Bisogna avere un contatto per questa mail"
+    </string>
+    <string name="sample_message">Ciao!</string>
+</resources>
